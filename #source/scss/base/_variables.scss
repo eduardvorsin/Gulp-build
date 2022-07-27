@@ -1,0 +1,25 @@
+/*******  Variables  *******/
+
+/**  Sass переменные для медиа запросов */
+
+$md-max-xl: 75em; //1200px;
+$md-max-l: 62em; //992px;
+$md-max-m: 48em; //768px;
+$md-max-s: 36em; //576px;
+$md-max-xs: 26.5625em; //425px;
+$md-min-xl: 75.0625em; //1201px;
+$md-min-l: 62.0625em; //993px;
+$md-min-m: 48.0625em; //769px;
+$md-min-s: 36.0625em; //577px;
+$md-min-xs: 26.625em; //426px
+
+/**  Css переменные для цветов и не только */
+:root {
+
+  --primary-font: 0, 0%, 0%;
+  --primary-color: 0, 0%, 0%;
+  --secondary-color: 0, 0%, 0%;
+  --tertiary-color: 0, 0%, 0%;
+  --border-radius: 5px;
+  --line-height: 1;
+}

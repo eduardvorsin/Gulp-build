@@ -1,0 +1,4 @@
+/#source/js/libs/**/*.js
+/#source/js/scripts/**/*.js
+gulpfile.js
+gulp_modules/
